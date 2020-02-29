@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 58277115b8fb74b4ea8691edc4ff028b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: '@'
+    100004: Gmail_1
+    100006: new_mail
+    100008: open_@mail
+    100010: open_letter
+    100012: open_mail
+    400000: //RootNode
+    400002: '@'
+    400004: Gmail_1
+    400006: new_mail
+    400008: open_@mail
+    400010: open_letter
+    400012: open_mail
+    2100000: Gmail
+    2100002: new mail
+    2100004: open mail
+    2100006: '@'
+    2100008: open letter
+    2300000: '@'
+    2300002: Gmail_1
+    2300004: new_mail
+    2300006: open_letter
+    2300008: open_mail
+    3300000: '@'
+    3300002: Gmail_1
+    3300004: new_mail
+    3300006: open_letter
+    3300008: open_mail
+    4300000: Gmail_1
+    4300002: new_mail
+    4300004: open_mail
+    4300006: '@'
+    4300008: open_letter
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '@'
+    second: {fileID: 2100000, guid: 6fa810b326f327b4dae33efd626a608f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gmail
+    second: {fileID: 2100000, guid: 6a045e9da11f5dd458233740ab08fe9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: new mail
+    second: {fileID: 2100000, guid: e06fde6492e23214191e94f0857d2ffd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: open letter
+    second: {fileID: 2100000, guid: 35199144a2ebbde49be77020064529e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: open mail
+    second: {fileID: 2100000, guid: 81f5333be986c0e41acf817a7c5d1c46, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: '@Surface_Color'
+    second: {fileID: 2800000, guid: e0e9065109154c94f879536a51dbb994, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GmailSurface_Color
+    second: {fileID: 2800000, guid: cf69f6e406b364f419ce4b236e109250, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: new_mailSurface_Color
+    second: {fileID: 2800000, guid: e11981fecc3418344b7b8fc601802d81, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: open_letterSurface_Color
+    second: {fileID: 2800000, guid: 21ce8835d494d6443bed3149749d12be, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: open_mailSurface_Color
+    second: {fileID: 2800000, guid: 946f45bc057183b4aa359e8352edf903, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
