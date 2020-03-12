@@ -52,4 +52,5 @@ Testings are done in our university’s lab on 28/1/2020. It involves *6* people
 <img src= "/Images/Testing/VR1st.PNG" width=520 height=250>
 
 The following bar chart shows the Gameplay Experience Questionaire (GEQ) result taken from *14* users who player the game. The GEQ are taken on both 28/1/2020 and 7/2/2020.
+
 <img src= "/Images/Testing/GEQ.png" width=420 height=220>
