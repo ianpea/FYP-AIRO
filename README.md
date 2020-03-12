@@ -4,7 +4,7 @@ Contact: i.peewj@gmail.com
 # Final Year Project - ***Airo***
 Done by Pee Wu Jian (Ian) during 2019-2020 @Multimedia University Cyberjaya (MMU).
 
-![Image](/Images/Level2/StartingScreen.PNG)
+<img src="/Images/Level2/StartingScreen.PNG" width=1000 height =500>
 
 Video link: https://www.youtube.com/watch?v=vtzrZs7plgA
 
@@ -21,8 +21,8 @@ walking-in-place (WIP), running-in-place (RIP) and jumping-in-place (JIP). Each 
 1x MPU6050 (3DOF accelerometer & gyroscope)
 1x 3m tether wire (USB extension)
 
-![Image](/Images/LocomotionController/IMG_20200203_230714.jpg)
+<img src= "/Images/LocomotionController/IMG_20200203_230714.jpg" width=300 height=450>
 
-# Setup
-![Image](/Images/Locomotion/Setup_1.jpg)
+# Hardware Setup
+<img src= "/Images/Locomotion/Setup_1.jpg" width=300 height=450>
 
