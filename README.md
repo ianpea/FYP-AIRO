@@ -21,8 +21,16 @@ walking-in-place (WIP), running-in-place (RIP) and jumping-in-place (JIP). Each 
 1x MPU6050 (3DOF accelerometer & gyroscope)
 1x 3m tether wire (USB extension)
 
-<img src= "/Images/LocomotionController/IMG_20200203_230714.jpg" width=300 height=450>
+<img src= "/Images/LocomotionController/IMG_20200203_230714.jpg" width=300 height=420>
 
 # Hardware Setup
 <img src= "/Images/Locomotion/Setup_1.jpg" width=300 height=450>
 
+# Testings & Results
+Testings are done in our university’s lab. It involves 6 people. It has lesser results as the game testing criteria was changed and we required new testers to test the game. Results are gathered and compiled and is shown below.
+<img src= "/Images/Testing/Bounce.PNG" width=420 height=220>
+<img src= "/Images/Testing/Jump.PNG" width=420 height=220>
+<img src= "/Images/Testing/JumpBar.PNG" width=420 height=220>
+<img src= "/Images/Testing/LegSmooth.PNG" width=420 height=220>
+<img src= "/Images/Testing/VE.PNG" width=420 height=220>
+<img src= "/Images/Testing/VR1st.PNG" width=420 height=210>
