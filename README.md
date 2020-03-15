@@ -11,17 +11,16 @@ Done by Pee Wu Jian (Ian) during 2019-2020 @Multimedia University Cyberjaya (MMU
 <img src="/Images/Level2/StartingScreen.PNG" width=570 height=300>
 <img src="/Images/Level2/Perspective.PNG" width=570 height=330>
 
+# Links
+Video link: https://www.youtube.com/watch?v=vtzrZs7plgA
+
+Poster link: https://drive.google.com/file/d/1BWqXaDRzoSL98vbFZUSHeKqabFCseMBd/view?usp=sharing
+
 # About
 This is a Virtual Reality (VR) game that uses proprietery locomotion controller made using Arduino and sensor modules as an input.
 
 # Gameplay
 The player play as a postman (hence the mails you see in pictures above) and navigate around the map to collect mails and coins using their physical legs as a input. The player are advised to use in-place-movements such as walking-in-place (WIP), running-in-place (RIP) and jumping-in-place (JIP). 
-
-# Links
-Video link: https://www.youtube.com/watch?v=vtzrZs7plgA
-
-Poster link: https://drive.google.com/file/d/1BWqXaDRzoSL98vbFZUSHeKqabFCseMBd/view?usp=sharing
-<img src = "/Images/Poster.jpg">
 
 # Level Design
 The virtual environment plays an important role in VR games, especially *Airo* as it dictates the immersion of navigation
@@ -54,3 +53,7 @@ Testings are done in our university’s lab on 28/1/2020. It involves *6* people
 The following bar chart shows the Gameplay Experience Questionaire (GEQ) result taken from *14* users who player the game. The GEQ are taken on both 28/1/2020 and 7/2/2020.
 
 <img src= "/Images/Testing/GEQ.png" width=420 height=220>
+
+# Poster
+
+<img src = "/Images/Poster.jpg">
