@@ -3,7 +3,7 @@ Contact: i.peewj@gmail.com
 
 COPYRIGHT (Malaysia): **LY2019008520**
 
-Done by Pee Wu Jian (Ian) during 2019-2020 @Multimedia University Cyberjaya (MMU).
+Done by **Pee Wu Jian** (Ian) during 2019-2020 @Multimedia University Cyberjaya (MMU).
 
 # Final Year Project - *Airo*
 <img src="/Images/Level1/StartingScreen.PNG" width=570 height=300>
